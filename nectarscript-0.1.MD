@@ -103,7 +103,8 @@ else
 var a = "string" + "string"; // "stringstring"
 var b = "string" + 1; // "string1"
 var c = 1 + 1; // 2
-var d = 1 + "string"; // undefined
+var d = 1 + "string"; // 0
+var e = 1 + "string" + 2; // 2
 ```
 * \-
 ```javascript
