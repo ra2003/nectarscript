@@ -27,6 +27,7 @@ var number = 3;
 * Array
 ```javascript
 var arr = [0, "abc", [1,2,3]];
+var aString = arr[1];
 ```
 
 ### Semantics
