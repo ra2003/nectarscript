@@ -47,6 +47,15 @@ while(i > 0)
   i--;
 }
 ```
+* do while
+```javascript
+var i = 3;
+do
+{
+  console.log(i);
+  i--;
+}while(i > 0)
+```
 
 ### Conditions
 
