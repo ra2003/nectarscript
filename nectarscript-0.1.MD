@@ -29,6 +29,11 @@ var number = 3;
 var arr = [0, "abc", [1,2,3]];
 var aString = arr[1];
 ```
+* Object
+```javascript
+var obj = {"key": "value", 0:1 };
+var aString = obj.key;
+```
 
 ### Semantics
 
